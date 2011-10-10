@@ -1,0 +1,7 @@
+Project is ported from http://code.google.com/p/google-authenticator/
+
+This library generates HMAC-Based One-time Passwords (HOTP), which can be used to login into your Google account if you have 2-step verification enabled.
+
+I ported this library for my own "amusement"; deepen the knowledge in Java (reading code and understanding it) and have fun with RFC specifications.
+
+I didn't find real world use for it yet which would not defeat the whole purpose of One-time passwords.

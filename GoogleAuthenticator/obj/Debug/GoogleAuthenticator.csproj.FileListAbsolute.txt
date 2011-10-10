@@ -1,0 +1,5 @@
+c:\documents and settings\vikte\my documents\visual studio 2010\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\vikte\my documents\visual studio 2010\Projects\GoogleAuthenticator\GoogleAuthenticator\bin\Debug\GoogleAuthenticator.dll
+c:\documents and settings\vikte\my documents\visual studio 2010\Projects\GoogleAuthenticator\GoogleAuthenticator\bin\Debug\GoogleAuthenticator.pdb
+c:\documents and settings\vikte\my documents\visual studio 2010\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.dll
+c:\documents and settings\vikte\my documents\visual studio 2010\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.pdb
